@@ -16,7 +16,7 @@ function App() {
             <div className="flex items-center gap-3">
               <Heart className="w-8 h-8 text-rose-500" />
               <h1 className="text-2xl font-bold text-gray-900">
-                Abokoma's Health Awareness Calendar
+                World Health Awareness Calendar
               </h1>
             </div>
             <div className="flex items-center gap-2 text-sm text-gray-600">
